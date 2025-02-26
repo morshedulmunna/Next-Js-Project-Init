@@ -1,6 +1,6 @@
 "use client";
 
-import { API } from "@/actions/BaseAPI";
+import { API } from "@/configs/BaseAPI";
 import { LoginRequest } from "@/open-api-generate";
 
 export default function Home() {
