@@ -1,0 +1,1 @@
+- if you use any global store management ( Ex: Redux m zustand)
