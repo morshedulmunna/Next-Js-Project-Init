@@ -1,3 +1,9 @@
+import ErrorMessage from "@/components/common/ErrorMessage";
+
 export default function Home() {
-  return <>Home Page</>;
+  return (
+    <>
+      <ErrorMessage message="Something" />
+    </>
+  );
 }
